@@ -3,5 +3,4 @@ import urllib.parse
 
 encoded_url = "leeford%40loves%21Zydney%40%40"
 decoded_url = urllib.parse.unquote(encoded_url)
-print("Encoded URL:", encoded_url)
 print("Decoded URL:", decoded_url)
