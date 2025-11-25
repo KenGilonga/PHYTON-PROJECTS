@@ -1,3 +1,4 @@
+URL DECODING AND DECODING SIMPLE STEPS.
 import urllib.parse
 
 encoded_url = "leeford%40loves%21Zydney%40%40"
